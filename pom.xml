@@ -35,7 +35,7 @@
 		<dependency>
 			<groupId>com.aerospike</groupId>
 			<artifactId>spring-data-aerospike</artifactId>
-			<version>3.1.0</version>
+			<version>3.2.0</version>
 		</dependency>
 		<!-- Adding aerospike-reactor-client explicitly since aerospike-reactor-client is marked with "optional" tag -->
 		<dependency>
